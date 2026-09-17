@@ -1,0 +1,16 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style-type: none;
+}
+
+nav {
+    height: 70px;
+    width: 96%;
+    margin: 16px auto;
+    border-radius: 8px;
+    box-shadow: 0 0 5px 2px;
+    
+}
