@@ -12,5 +12,22 @@ nav {
     margin: 16px auto;
     border-radius: 8px;
     box-shadow: 0 0 5px 2px;
-    
+    background-color: coral;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 2%;
+}
+
+nav ul {
+    display: flex;
+    gap: 16px;
+}
+nav h1 {
+    color: white;
+    font-size: 32px;
+}
+nav ul li {
+    color: white;
+    font-size: 24px;
 }
